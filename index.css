@@ -1,0 +1,21 @@
+h1{
+	text-align:center;
+}
+.badge{
+	width:50%;
+	height:50%;
+	display:flex;
+	flex-warap:wrap;
+	justify-content:space-around;
+	align-items:flex-end;
+}
+.container{
+	border:2px solid red;
+}
+.n{
+	border:2px solid black;
+}
+.row{
+	margin:50px;
+	border:2px solid green;
+}
